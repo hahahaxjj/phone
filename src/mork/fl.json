@@ -1,0 +1,8 @@
+{
+    "买手机":[
+        {"xh":"华为 nova3巴拉巴拉","js":"高颜值爱自拍","rmb":"2299","flt":"../static/img/fl1.png"},
+        {"xh":"华为 荣耀V10","js":"后置双摄像头","rmb":"1799","flt":"../static/img/fl2.png"},
+        {"xh":"魅蓝Note6","js":"前置指纹识别","rmb":"699","flt":"../static/img/fl3.png"},
+        {"xh":"魅族魅蓝6","js":"双卡双待 八核处理器","rmb":"579","flt":"../static/img/fl4.png"}
+    ]
+}

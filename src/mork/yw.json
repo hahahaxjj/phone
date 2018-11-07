@@ -1,0 +1,14 @@
+{
+    "办业务":[
+        {"yw":"和家庭分享","content":"全家用4G","ywt":"../../static/img/yw1.png"},
+        {"yw":"流量可选包2选一","content":"流量扩容更实惠","ywt":"../../static/img/yw2.png"},
+        {"yw":"4G高清语音","content":"低延时，高品质，通话巴拉巴拉","ywt":"../../static/img/yw3.png"},
+        {"yw":"流量安心包","content":"免费开通，流量放心用","ywt":"../static/img/yw4.png"}
+    ],
+    "办套餐":[
+        {"yw":"4G飞享套餐","content":"4G飞享自选套餐，包含流量套餐和","ywt":"../static/img/tc1.png"},
+        {"yw":"4G飞享套餐","content":"4G飞享自选套餐，包含流量套餐和","ywt":"../static/img/tc1.png"},
+        {"yw":"4G飞享套餐青春版","content":" 4G飞享自选套餐，包含流量套餐","ywt":"../static/img/tc2.png"},
+        {"yw":"4G飞享套餐畅聊版","content":" 4G飞享自选套餐，包含流量套餐","ywt":"../static/img/tc3.png"}
+    ]
+}
